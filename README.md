@@ -1,7 +1,7 @@
 # NLTree
 Displaying Linguistic Structure with CSS
 
-<sub><i>Disclaimer</i>: A lot of the following text is taken directly from http://spacy.io to provide context.</sub>
+<sub><i>Disclaimer</i>: A lot of the following text is taken directly from http://spacy.io to provide context. This is a pale immitiation of Ines's <a href="https://ines.io/blog/developing-displacy" target="_blank">original work</a> simply because the Displacy website seems to have been brought down recently (for some reason).</sub>
 
 ### What is spaCy ?
 spaCy is a library for Natural Language Processing (NLP). The basics are actually quite simple: You can feed spaCy all kinds of texts and it will tell you a lot about those texts in basically no time. For example, it can parse a sentence and tell you everything you want to know about its grammatical structure. This may sound quite abstract and academic (I still have vivid memories of having to draw a bunch of those in uni) and maybe the significance of this is not instantly obvious. But think about it this way:
