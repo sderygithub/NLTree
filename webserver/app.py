@@ -240,7 +240,7 @@ def syntree():
 
     html += """
     <head>
-        <title>displaCy Demo</title>
+        <title>NLTree Demo</title>
         <meta charset="utf-8">
         <link rel="stylesheet" href="./static/css/arrows/arrows-style.css">
     </head>
